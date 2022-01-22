@@ -1,6 +1,6 @@
 package com.alex.cursojavabasico.aula14_15;
 import java.util.Scanner;
-public class Tarefa3 {
+public class Tarefa03 {
 
 	public static void main(String[] args) {
 		boolean error = false;

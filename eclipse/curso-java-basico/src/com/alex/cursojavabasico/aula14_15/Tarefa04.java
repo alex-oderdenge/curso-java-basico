@@ -1,6 +1,6 @@
 package com.alex.cursojavabasico.aula14_15;
 import java.util.Scanner;
-public class Tarefa4 {
+public class Tarefa04 {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

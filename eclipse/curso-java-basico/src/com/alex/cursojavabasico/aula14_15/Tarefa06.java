@@ -1,6 +1,6 @@
 package com.alex.cursojavabasico.aula14_15;
 import java.util.Scanner;
-public class Tarefa6 {
+public class Tarefa06 {
 
 	public static void main(String[] args) {
 	int maior = 0;

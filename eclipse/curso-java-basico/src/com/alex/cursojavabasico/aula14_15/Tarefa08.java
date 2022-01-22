@@ -1,6 +1,6 @@
 package com.alex.cursojavabasico.aula14_15;
 import java.util.Scanner;
-public class Tarefa8 {
+public class Tarefa08 {
 
 	public static void main(String[] args) {
 	String menor = "";

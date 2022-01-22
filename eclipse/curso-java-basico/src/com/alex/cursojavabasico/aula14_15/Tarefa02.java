@@ -1,6 +1,6 @@
 package com.alex.cursojavabasico.aula14_15;
 import java.util.Scanner;
-public class Tarefa2 {
+public class Tarefa02 {
 
 	public static void main(String[] args) {
 		String positivo = "positivo";

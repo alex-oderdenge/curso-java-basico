@@ -1,6 +1,6 @@
 package com.alex.cursojavabasico.aula14_15;
 import java.util.Scanner;
-public class Tarefa5 {
+public class Tarefa05 {
 
 	public static void main(String[] args) {
 		String status = "";
